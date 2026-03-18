@@ -1,0 +1,6 @@
+{
+  "Name": "Pull GitHub Commit File",
+  "ProjectType": "Tests",
+  "Description": "Test Automation Project",
+  "MainFile": "Main.xaml"
+}
